@@ -1,0 +1,10 @@
+{"roaster":[
+    {"emp_id":201102,"dept_name":"sabarmati exp" ,"emp_name":"at gonda" ,"assign_date":"2022-01-13", "age":32, "salary":32125},
+    {"emp_id":201103,"dept_name":"lko mail" ,"emp_name":"at delhi" ,"assign_date":"2022-01-15", "age":25, "salary":25021},
+    {"emp_id":201104,"dept_name":"deshkranti exp" ,"emp_name":"at bareilly" ,"assign_date":"2021-12-10", "age":21, "salary":41912},
+    {"emp_id":201105,"dept_name":"intercity exp" ,"emp_name":"at varanasi" ,"assign_date":"2022-01-11", "age":27, "salary":25303},
+    {"emp_id":201106,"dept_name":"tejas exp" ,"emp_name":"at kanpur" ,"assign_date":"2021-04-08", "age":25, "salary":35566},
+    {"emp_id":201107,"dept_name":"shatabdhi exp" ,"emp_name":"at sultanpur" ,"assign_date":"2021-11-04", "age":21, "salary":340655},
+    {"emp_id":201108,"dept_name":"lko ac special " ,"emp_name":"at noida" ,"assign_date":"2022-01-30", "age":54, "salary":56767},
+    {"emp_id":201109,"dept_name":"gomti exp" ,"emp_name":"at pratabgardh" ,"assign_date":"2022-06-23", "age":22, "salary":344787}
+]}
